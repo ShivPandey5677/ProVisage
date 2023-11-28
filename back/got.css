@@ -1,0 +1,136 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ 
+    background-image: linear-gradient(black,#002D62);
+    
+        padding:0px;
+        margin:0px;
+    
+}
+
+
+.center {
+    
+    height: 800px;
+    width:1500px;
+  background-size: cover;
+  background-image: linear-gradient(black,#002D62);
+ 
+    
+  }
+
+  #k
+  {
+    position: absolute;
+            color:dodgerblue;
+            left: 19rem;
+            top: 14rem;
+            
+            padding: 0 1rem;
+  }
+
+  #lo
+  {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+#u
+{
+  position: absolute;
+            color:azure;
+            left: 19rem;
+            top: 24rem;
+            padding: 0 1rem;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#f
+{
+    
+        
+        margin: auto;
+        background-color:lightcyan;
+      
+}
+
+#i
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#p
+{
+    width: 100%;
+  padding: 12px 20px;
+}
+
+
+.pj
+{
+    height: 300px;
+    width: 300px;
+    border-radius:150%;
+    display: block;
+
+}
+
+#y
+{
+    display: flex;
+    align-items: center;
+    justify-content: center
+  
+}
+
+
+#y2
+{
+    display: flex;
+    align-items: center;
+    justify-content: center
+  
+}
+#y3
+{
+    display: flex;
+    align-items: center;
+    justify-content: center
+  
+}
+#y4
+{
+    display: flex;
+    align-items: center;
+    justify-content: center
+  
+}
+
+footer
+  {
+    color:black;
+    max-width: 2000px;
+    margin: auto;
+    background-color:whitesmoke;
+
+  }
+
+
+  #uy
+  {
+    color:black;
+    max-width: 2000px;
+    margin: auto;
+    background-color:whitesmoke;
+
+  }
+
+
+  #io
+  {
+    color:black;
+    max-width: 2000px;
+    margin: auto;
+    background-color:whitesmoke;
+
+  }

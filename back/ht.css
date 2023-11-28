@@ -1,0 +1,98 @@
+body{
+    font-family:"Garamond", Times, serif;
+    background-image: linear-gradient(black ,grey);
+   
+}
+
+#lo
+{
+    color:white;
+}
+.center {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    display: block;
+  margin-left: 200px;
+  margin-top: 100px;
+    
+  }
+  #if
+  {
+    font-size: 19px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  #k
+  {
+    position: absolute;
+            color:black;
+            left: 51rem;
+            top: 21rem;
+            
+            padding: 0 1rem;
+  }
+
+#u
+{
+  position: absolute;
+            color:white;
+            left: 28rem;
+            top: 41rem;
+            padding: 0 1rem;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+#i
+{
+    text-align: center;
+}
+
+#p
+{
+    width: 100%;
+  padding: 12px 20px;
+}
+
+
+
+
+footer
+  {
+    color:black;
+  }
+
+
+  
+
+
+  .img-container {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  #uy
+  {
+    color:black;
+    max-width: 2000px;
+    margin: auto;
+    background-color:grey;
+
+  }
+  #pol
+  {
+    text-align: center;
+  }
+
+
+
+  

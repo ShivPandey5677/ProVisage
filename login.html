@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="loginsignup.css">
+</head>
+<body>
+    <div class="container">
+        <div class="login">
+            <form action="./H1.php" method="POST" onsubmit="return validateForm()">
+                <label for="name" class="labeling">Name</label><br><input type="text" name="username" class="data"><br><br>
+               <label for="email" class="labeling"> Email</label><br><input type="text" name="email" class="data"><br><br>
+               <label for="createp" class="labeling">Password</label><br><input type="password" name="pass" class="data" required><br><br>
+               <input type="submit" id="submit">
+            </form>
+        </div>
+    </div>
+   
+</body>
+</html>

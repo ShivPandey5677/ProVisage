@@ -1,0 +1,134 @@
+body{
+    font-family:"Garamond", Times, serif;
+    background-image: linear-gradient(#FFE4B5,#F4A460);
+}
+
+
+.center {
+    height: 800px;
+    width:1500px;
+    margin-left: 0px;
+  background-size: cover;
+    
+  }
+
+  #k
+  {
+    position: absolute;
+            color:black;
+            left: 46rem;
+            top: 21rem;
+            
+            padding: 0 1rem;
+  }
+
+#u
+{
+  position: absolute;
+            color:black;
+            left: 33rem;
+            top: 33rem;
+            right:5rem;
+            padding: 0 1rem;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#f
+{
+    
+        max-width: 800px;
+        margin: auto;
+        background-color:beige;
+      
+}
+
+#i
+{
+    text-align: center;
+}
+
+#p
+{
+    width: 100%;
+  padding: 12px 20px;
+}
+
+
+.pj
+{
+    height: 300px;
+    width: 300px;
+    border-radius:150%;
+    display: block;
+
+}
+
+#y
+{
+    display: flex;
+    align-items: center;
+    justify-content: center
+  
+}
+
+
+#y2
+{
+    display: flex;
+    align-items: center;
+    justify-content: center
+  
+}
+#y3
+{
+    display: flex;
+    align-items: center;
+    justify-content: center
+  
+}
+#y4
+{
+    display: flex;
+    align-items: center;
+    justify-content: center
+  
+}
+
+footer
+  {
+    color:black;
+    background-color:whitesmoke;
+    padding: 10px;
+    height:500px;
+    width: 100px; /* Set the width of the sidebar */
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
+
+
+  #uy
+  {
+   
+    color:black;
+    max-width: 1200px;
+    margin: auto;
+    background-color:whitesmoke;
+
+  }
+
+
+  #io
+  {
+   
+    color:black;
+    max-width: 1200px;
+    margin: auto;
+    background-color:whitesmoke;
+
+  }
+
+  #lol,#lol2
+  {
+    text-align: center;
+  }

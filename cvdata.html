@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>  
+ .data{
+    width:80%;
+    border:3px solid;
+    border-radius: 5px;
+
+ }
+.labeling{
+    font-size: large;
+   font-weight: 500; 
+}
+#submit{
+  background-color:rgb(0, 162, 255);
+  padding:10px;
+  border-radius:10px;
+  color:white;
+}
+</style>
+</head>
+<body>
+    <div class="container">
+        <div class="login">
+            <form action="./back/a.php" method="POST"  enctype="multipart/form-data">
+                <label for="name" class="labeling">Name</label><br><input type="text" name="username" class="data"><br><br>
+               <label for="email" class="labeling"> Email</label><br><input type="text" name="email" class="data"><br><br>
+               <label for="add" class="labeling">Address</label><br><textarea name="address" id="skill" cols="30" rows="10" class="data" required></textarea><br><br>
+               <label for="phone" class="labeling">Phone Number</label><br><input type="text" name="phone" class="data"><br><br>
+               <label for="skill" class="labeling">Speaking Language</label><br><input type="text" name="lang" class="data" required><br><br>
+               <label for="skill" class="labeling">Speaking Language 2</label><br><input type="text" name="lang1" class="data" ><br><br>
+               <label for="skill" class="labeling">Profression</label><br><input type="text" name="proff" class="data" required><br><br>
+               <label for="skill" class="labeling">Company Worked IN</label><br><input type="text" name="company" class="data"><br><br>
+               <label for="skill" class="labeling">Working from-Working To</label><br><input type="text" name="exp" class="data"><br><br>
+               <label for="abpro" class="labeling">What was your role in company</label><br><textarea name="aboutpro2" id="pro" cols="30" rows="10" class="data" ></textarea><br><br> 
+               <label for="skill" class="labeling">Profression2</label><br><input type="text" name="proff2" class="data" required><br><br>
+               <label for="skill" class="labeling">Another Company Worked IN</label><br><input type="text" name="company2" class="data"><br><br>
+               <label for="skill" class="labeling">Working from-Working To</label><br><input type="text" name="exp2" class="data"><br><br>
+               <label for="abpro" class="labeling">What was/is your role in company</label><br><textarea name="aboutpro3" id="pro" cols="30" rows="10" class="data" ></textarea><br><br> 
+               <label for="skill" class="labeling"><h1>Education</h1> <br> Institution Name</label><br><input type="text" name="instname" class="data"><br><br>
+               <label for="skill" class="labeling">Grades</label><br><input type="text" name="grad" class="data"><br><br>
+               <label for="skill" class="labeling"><h1>College Education</h1> <br>College Institution Name</label><br><input type="text" name="instname1" class="data"><br><br>
+               <label for="skill" class="labeling">Grades</label><br><input type="text" name="grad1" class="data"><br><br>
+               <label for="skill" class="labeling"><h1>Master Education</h1> <br> Institution Name</label><br><input type="text" name="instname2" class="data"><br><br>
+               <label for="skill" class="labeling">Grades</label><br><input type="text" name="grad2" class="data"><br><br>
+               <label for="skill" class="labeling"><h1>Soft Skills</h1><br>Soft Skills 1</label><br><input type="text" name="soft1" class="data"><br><br>
+               <label for="skill" class="labeling">How much percentage you think you excel in that</label><br><input type="text" name="exx1" class="data"><br><br>
+               <label for="skill" class="labeling">Soft Skills 2</label><br><input type="text" name="soft2" class="data"><br><br>
+               <label for="skill" class="labeling">How much percentage you think you excel in that</label><br><input type="text" name="exx2" class="data"><br><br>
+               <label for="skill" class="labeling">Interest 1</label><br><input type="text" name="inter1" class="data"><br><br>
+               <label for="skill" class="labeling">Interest 2</label><br><input type="text" name="inter2" class="data"><br><br>
+               <label for="skill" class="labeling">Interest 3</label><br><input type="text" name="inter3" class="data"><br><br>
+               <input type="submit" id="submit">
+
+            </form>
+        </div>
+    </div>
+   
+</body>
+</html>
