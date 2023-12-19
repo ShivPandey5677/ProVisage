@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = ""; //fill your database root directory password
 $dbname = "portfolio_project";
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);

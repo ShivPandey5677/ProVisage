@@ -124,10 +124,10 @@ $conn->close();
     <img src="<?php echo $image1; ?>" alt="Italy" style="width:100%">
     </div>
     <div class="img-container">
-    <img src="<?php echo $image1; ?>" alt="Forest" style="width:100%">
+    <img src="<?php echo $image2; ?>" alt="Forest" style="width:100%">
     </div>
     <div class="img-container">
-    <img src="<?php echo $image1; ?>" alt="Mountains" style="width:100%">
+    <img src="<?php echo $image3; ?>" alt="Mountains" style="width:100%">
     </div>
   </div>
 <BR><br><br><br>

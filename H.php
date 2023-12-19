@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="j.css">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>ProVisage</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
   </head>
   
@@ -35,7 +35,7 @@
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">Navbar</a>
+          <a class="navbar-brand" href="#">ProVisage</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -47,9 +47,7 @@
               <li class="nav-item">
                 <a class="nav-link" href="#">Features</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Pricing</a>
-              </li>
+      
               <li class="nav-item">
                 <a class="nav-link" aria-disabled="false" href="./login.html">Log In</a>
                     </li>
@@ -106,9 +104,9 @@
               <div class="p">
                   <img src="a.jpg">
                   <div class="cc">
-                    <h3>Portfolio-1</h3>
+                    <h3>Photographer</h3>
                     <p>This is one of the types of portfolio</p> 
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus accusantium, nobis, animi vero consecte</p> 
+                    <p>A journey of different memories caught in photos by you can be depicted by this portfolio.</p> 
                       <a href="./back/ph.html" class="btn">Read more</a>
                   </div>
               </div>
@@ -116,9 +114,9 @@
               <div class="p">
                   <img src="b.jpg">
                   <div class="cc">
-                    <h3>Portfolio-2</h3>
+                    <h3>Web developer</h3>
                     <p>This is one of the types of portfolio</p> 
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus accusantium, nobis, animi vero consecte</p> 
+                    <p>Showcase your codeing skills through the mirror of your projects in your Portfolio.</p> 
                       <a href="./back/kl.html" class="btn">Read more</a>
                   </div>
               </div>
@@ -126,9 +124,9 @@
               <div class="p">
                   <img src="c.jpg">
                   <div class="cc">
-                    <h3>Portfolio-3</h3>
+                    <h3>Writer</h3>
                     <p>This is one of the types of portfolio</p> 
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus accusantium, nobis, animi vero consecte</p> 
+                    <p>Showcase your land of visions which you wrote using ink in your portfolio as an artist.</p> 
                       <a href="./back/ren.html" class="btn">Read more</a>
                   </div>
               </div>
@@ -136,9 +134,9 @@
               <div class="p">
                   <img src="hello.jpg">
                   <div class="cc">
-                    <h3>Portfolio-4</h3>
+                    <h3>Designer</h3>
                     <p>This is one of the types of portfolio</p> 
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus accusantium, nobis, animi vero consecte</p> 
+                    <p>Showcase your talent of building others dreams from your beautiful designs through your architect portfolio.</p> 
                       <a href="./back/template2b.php" class="btn">Read more</a>
                   </div>
               </div>
@@ -177,11 +175,10 @@
           <ul class="nav justify-content-center border-bottom pb-3 mb-3">
             <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
             <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Features</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Pricing</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">FAQs</a></li>
+            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Portfolios</a></li>
             <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">About</a></li>
           </ul>
-          <p class="text-center text-body-secondary">&copy; 2023 Company, Inc</p>
+          <p class="text-center text-body-secondary"> ProVisage</p>
         </footer>
       </div>
 
